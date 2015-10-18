@@ -1,1 +1,3 @@
 # StoryboardSample
+
+StoryboardReferenceを試してみたサンプル。
